@@ -3,8 +3,9 @@ h1 {
     font-size: 70px;
 }
 
-
-
+h2 {
+    text-align: center;
+}
 
 .wrapper {
     text-align: center;
