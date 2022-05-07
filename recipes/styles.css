@@ -1,17 +1,42 @@
 h1 {
     text-align: center;
     font-size: 70px;
+    background-color: #93a8ac;
+    color: #d71709;
 }
 
 h2 {
     text-align: center;
+    background-color: #343330;
+    color: #d71709;
 }
 
 .wrapper {
     text-align: center;
     font-size: 35px;
+    background-color: #93a8ac;
+    color: #5438dc;
 }
 
 ul {
     display: inline-block;
+    background-color: #ffa552;
+    color: #5438dc;
+}
+
+body {
+    background-color: #343330;
+    color: #5438dc;
+}
+
+ol {
+    display: inline-block;
+    background-color: #ffa552;
+    color: #5438dc;
+}
+
+p {
+    display: inline-block;
+    background-color: #ffa552;
+    color: #5438dc;
 }
