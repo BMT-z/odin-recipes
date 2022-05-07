@@ -3,12 +3,14 @@ h1 {
     font-size: 70px;
     background-color: #93a8ac;
     color: #d71709;
+    font-family: Georgia, 'Times New Roman', Times, serif
 }
 
 h2 {
     text-align: center;
     background-color: #93a8ac;
     color: #5438dc;
+    font-family: Georgia, 'Times New Roman', Times, serif
 }
 
 .wrapper {
@@ -22,9 +24,11 @@ ul {
     display: inline-block;
     background-color: #ffa552;
     color: #5438dc;
+    font-family: Georgia, 'Times New Roman', Times, serif
 }
 
 body {
     background-color: #343330;
     color: #5438dc;
+    font-family: Georgia, 'Times New Roman', Times, serif
 }
