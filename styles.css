@@ -3,7 +3,9 @@ h1 {
     font-size: 70px;
     background-color: #93a8ac;
     color: #d71709;
-    font-family: Georgia, 'Times New Roman', Times, serif
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 500px;
+    margin-right: 500px;
 }
 
 h2 {
@@ -18,13 +20,17 @@ h2 {
     font-size: 35px;
     background-color: #93a8ac;
     color: #5438dc;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 ul {
     display: inline-block;
     background-color: #ffa552;
     color: #5438dc;
-    font-family: Georgia, 'Times New Roman', Times, serif
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 739px;
+    padding-right: 560px;
 }
 
 body {
